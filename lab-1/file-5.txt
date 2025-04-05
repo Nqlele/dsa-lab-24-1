@@ -1,1 +1,4 @@
+HEAD
 Содержимое file-5 
+"Содержимое file-5" 
+feature-3
